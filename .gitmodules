@@ -90,3 +90,5 @@
 [submodule "components/cmock/CMock"]
 	path = components/cmock/CMock
 	url = ../../ThrowTheSwitch/CMock.git
+[submodule "components/mqtt/esp-mqtt/"]
+	url = https://github.com/bonbon2106/esp-mqtt.git
